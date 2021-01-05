@@ -18,8 +18,28 @@ h1{
     margin-left: 150px;
     height: 500px;
     width: 200px;
-    text-align: center;
+    padding-top: 15px;
+    
+    
 }
 img{
-    padding-top: 380px;
+    padding-top: 188px;
+}
+h2{
+    color:#800000
+}
+.elerhetoseg{
+    color: #800000;
+    text-align: center
+    
+
+}
+.div_3{
+    background-image: url('tartalomkep.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 590px;
+    height: 500px;
+    padding-top: 15px;
+
 }
