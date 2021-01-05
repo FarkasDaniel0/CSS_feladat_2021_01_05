@@ -1,3 +1,25 @@
 body{
     background-image: url("hatter.jpg");
 }
+
+.div_1{
+    margin-left: 150px;
+    margin-right: 150px;
+    background-image: url("fejlec.jpg");
+    height: 100px;
+    text-align: center;
+
+}
+h1{
+    padding-top: 30px;
+}
+.div_2{
+    background-color: #E8E8E8;
+    margin-left: 150px;
+    height: 500px;
+    width: 200px;
+    text-align: center;
+}
+img{
+    padding-top: 380px;
+}
